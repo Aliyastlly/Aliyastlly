@@ -1,6 +1,6 @@
 <!-- 顶部欢迎语和个人简介 -->
 <h1 align="center">
-  Hi 👋, 我是黎升鹏 (Aliyastlly)
+  Hi 👋, 我是Ali
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <p align="center">
@@ -16,7 +16,6 @@
 
 ### 🤔 关于我 (About Me)
 
--   🎓 **教育背景**: 电子科技大学 (UESTC) | 机械工程 (硕士) & 计算机科学 (第二学士学位)
 -   🎯 **求职意向**: 正在积极寻找 **Java 后端开发** 相关的秋招/实习机会
 -   💡 **技术热情**: 热衷于使用 **DDD** 构建清晰、高内聚的微服务架构，并对 **AIGC / LLM** 应用落地充满兴趣
 -   🏆 **荣誉**: **华为AI致远班成员**，校优秀研究生，多次荣获校级奖学金
